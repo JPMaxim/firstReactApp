@@ -1,0 +1,8 @@
+export const bbcHeadingOne = "Don't think pandemic is over, Whitty warns"
+export const bbcHeadingTwo = "Pay rise was set to be 2.1% - NHS chief"
+export const bbcHeadingThree = "Charity criticises Morgan's comments about Meghan"
+export const bbcHeadingFour = "Unilever drops word 'normal' from beauty products"
+export const bbcParagraphOne = "Unlocking too quickly would lead to a substancial surge in infection, UK chief medical officer says."
+export const bbcParagraphTwo = "NHS England boss backs ministers over pay dispute but does not rule out a one-off bonus for workers."
+export const bbcParagraphThree = "Mental health charity Mind says it is 'dissapointed' by comments Piers Morgan made on Monday."
+export const bbcParagraphFour = "The owner of Dove and Vaseline will remove the word from about 200 products in a push for inclusivity."

@@ -1,38 +1,95 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.heading {
+  text-align: center;
+  color: navy;
+  width: 80%;
+  padding-bottom: 5px;
+  margin: 75px auto;
+  border-bottom: solid 1px navy;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* --------------- Components Activity ----------------- */
+.netflixContainer, .bbcNewsContainer, .galleryContainer {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-flow: row wrap;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  margin: 10px 0;
+}
+
+.netflix, .bbcNews, .gallery {
+  width: fit-content;
+}
+.netflix > img {
+  height: 177px;
+  width: 94px;
+}
+.bbcNews > img {
+  object-fit: contain;
+}
+.gallery > img {
+  height: 138px;
+  width: 137px;
+}
+
+.bbcNews {
+  display: flex;
+  flex-flow: column wrap;
+  max-width: 120px;
+  margin: 0 5px;
+}
+.bbcNews > h3 {
+  font-size: 0.5em;
+  margin: 3px 0;
+}
+.bbcNews > p {
+  font-size: 0.5em;
+  margin: 3px 0;
+}
+
+.gallery {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-start;
+  margin: 0 3px;
+}
+.gallery > img {
+  border-radius: 3px;
+}
+.gallery > p {
+  margin: 5px 0 0 0;
+  font-size: 0.65em;
+}
+/* --------------- Counter Activity ----------------- */
+.countContainer {
+  background-color: #0047AB;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.countButton, .count {
+  width: 40px;
+  height: 40px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
   color: white;
+  font-weight: bold;
 }
-
-.App-link {
-  color: #61dafb;
+.countButton {
+  background-color: #FFBF00;
+  font-size: 2em;
+  border: none;
+  /* background-color: #F4BB44; */
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.count {
+  font-size: 3.9em;
+  padding: 20px;
 }
