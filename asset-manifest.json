@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/JPMaxim/firstReactApp/static/css/main.e741234c.css",
-    "main.js": "/JPMaxim/firstReactApp/static/js/main.805772d4.js",
-    "static/media/galleryOne.png": "/JPMaxim/firstReactApp/static/media/galleryOne.40ef59a5675906f9ecc6.png",
-    "static/media/netflixOne.png": "/JPMaxim/firstReactApp/static/media/netflixOne.3c722ada2bb063bcb555.png",
-    "static/media/galleryThree.png": "/JPMaxim/firstReactApp/static/media/galleryThree.991d247ec5bf1da4633b.png",
-    "static/media/galleryFour.png": "/JPMaxim/firstReactApp/static/media/galleryFour.aa91a90e5cd13cdc1854.png",
-    "static/media/netflixFour.png": "/JPMaxim/firstReactApp/static/media/netflixFour.e7392cdd845843751718.png",
-    "static/media/netflixThree.png": "/JPMaxim/firstReactApp/static/media/netflixThree.0997942b50e9d1ddb293.png",
-    "static/media/netflixTwo.png": "/JPMaxim/firstReactApp/static/media/netflixTwo.9fe3a401b1f3484e450e.png",
-    "static/media/galleryTwo.png": "/JPMaxim/firstReactApp/static/media/galleryTwo.d54e8f387a34b924d4c1.png",
-    "static/media/netflixFive.png": "/JPMaxim/firstReactApp/static/media/netflixFive.2d8618aaf1ea42dfc140.png",
-    "static/media/bbcNewsOne.png": "/JPMaxim/firstReactApp/static/media/bbcNewsOne.67e34cb1af4448f7228c.png",
-    "static/media/bbcNewsTwo.png": "/JPMaxim/firstReactApp/static/media/bbcNewsTwo.f29776a014621a105c83.png",
-    "static/media/bbcNewsThree.png": "/JPMaxim/firstReactApp/static/media/bbcNewsThree.51bfebfa5efa0616c15c.png",
-    "static/media/bbcNewsFour.png": "/JPMaxim/firstReactApp/static/media/bbcNewsFour.88803cabd46b689b1cef.png",
-    "index.html": "/JPMaxim/firstReactApp/index.html",
-    "main.e741234c.css.map": "/JPMaxim/firstReactApp/static/css/main.e741234c.css.map",
-    "main.805772d4.js.map": "/JPMaxim/firstReactApp/static/js/main.805772d4.js.map"
+    "main.css": "/firstReactApp/static/css/main.e741234c.css",
+    "main.js": "/firstReactApp/static/js/main.755bb9b0.js",
+    "static/media/galleryOne.png": "/firstReactApp/static/media/galleryOne.40ef59a5675906f9ecc6.png",
+    "static/media/netflixOne.png": "/firstReactApp/static/media/netflixOne.3c722ada2bb063bcb555.png",
+    "static/media/galleryThree.png": "/firstReactApp/static/media/galleryThree.991d247ec5bf1da4633b.png",
+    "static/media/galleryFour.png": "/firstReactApp/static/media/galleryFour.aa91a90e5cd13cdc1854.png",
+    "static/media/netflixFour.png": "/firstReactApp/static/media/netflixFour.e7392cdd845843751718.png",
+    "static/media/netflixThree.png": "/firstReactApp/static/media/netflixThree.0997942b50e9d1ddb293.png",
+    "static/media/netflixTwo.png": "/firstReactApp/static/media/netflixTwo.9fe3a401b1f3484e450e.png",
+    "static/media/galleryTwo.png": "/firstReactApp/static/media/galleryTwo.d54e8f387a34b924d4c1.png",
+    "static/media/netflixFive.png": "/firstReactApp/static/media/netflixFive.2d8618aaf1ea42dfc140.png",
+    "static/media/bbcNewsOne.png": "/firstReactApp/static/media/bbcNewsOne.67e34cb1af4448f7228c.png",
+    "static/media/bbcNewsTwo.png": "/firstReactApp/static/media/bbcNewsTwo.f29776a014621a105c83.png",
+    "static/media/bbcNewsThree.png": "/firstReactApp/static/media/bbcNewsThree.51bfebfa5efa0616c15c.png",
+    "static/media/bbcNewsFour.png": "/firstReactApp/static/media/bbcNewsFour.88803cabd46b689b1cef.png",
+    "index.html": "/firstReactApp/index.html",
+    "main.e741234c.css.map": "/firstReactApp/static/css/main.e741234c.css.map",
+    "main.755bb9b0.js.map": "/firstReactApp/static/js/main.755bb9b0.js.map"
   },
   "entrypoints": [
     "static/css/main.e741234c.css",
-    "static/js/main.805772d4.js"
+    "static/js/main.755bb9b0.js"
   ]
 }
