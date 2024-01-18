@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/firstReactApp/static/css/main.e741234c.css",
-    "main.js": "/firstReactApp/static/js/main.ab767757.js",
+    "main.js": "/firstReactApp/static/js/main.cdd08d3c.js",
     "static/media/galleryOne.png": "/firstReactApp/static/media/galleryOne.40ef59a5675906f9ecc6.png",
     "static/media/netflixOne.png": "/firstReactApp/static/media/netflixOne.3c722ada2bb063bcb555.png",
     "static/media/galleryThree.png": "/firstReactApp/static/media/galleryThree.991d247ec5bf1da4633b.png",
@@ -17,10 +17,10 @@
     "static/media/bbcNewsFour.png": "/firstReactApp/static/media/bbcNewsFour.88803cabd46b689b1cef.png",
     "index.html": "/firstReactApp/index.html",
     "main.e741234c.css.map": "/firstReactApp/static/css/main.e741234c.css.map",
-    "main.ab767757.js.map": "/firstReactApp/static/js/main.ab767757.js.map"
+    "main.cdd08d3c.js.map": "/firstReactApp/static/js/main.cdd08d3c.js.map"
   },
   "entrypoints": [
     "static/css/main.e741234c.css",
-    "static/js/main.ab767757.js"
+    "static/js/main.cdd08d3c.js"
   ]
 }
